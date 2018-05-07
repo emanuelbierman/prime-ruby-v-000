@@ -17,7 +17,7 @@ end
 #   numbers = (0..11000).to_a
 #   less_numbers = []
 #   prime_numbers = []
-# 
+#
 #   # less_numbers now has all odd numbers (and 2)
 #   numbers.each do |n|
 #     if n == 2
@@ -28,7 +28,7 @@ end
 #       next
 #     end
 #   end
-# 
+#
 #   # less_numbers.each do |n|
 #   #   if n == 2
 #   #     prime_numbers << n
@@ -37,8 +37,8 @@ end
 #   #   elsif
 #   #
 #   # prime_numbers.include?(number)
-# 
-# 
+#
+#
 #   # if n == 2
 #   #   true
 #   # elsif n == 3
